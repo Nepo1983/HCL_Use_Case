@@ -8,6 +8,7 @@ readme = "README.md"
 [tool.poetry.dependencies]
 python = "^3.9"
 pandas = "^2.2.0"
+just = "^0.8.161"
 
 
 [build-system]
