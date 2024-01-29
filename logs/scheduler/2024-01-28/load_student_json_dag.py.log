@@ -410,3 +410,48 @@ ModuleNotFoundError: No module named 'scripts'
 [2024-01-28T00:21:45.723+0000] {logging_mixin.py:154} INFO - [2024-01-28T00:21:45.722+0000] {dagbag.py:536} INFO - Filling up the DagBag from /opt/airflow/dags/load_student_json_dag.py
 [2024-01-28T00:21:45.937+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/load_student_json_dag.py
 [2024-01-28T00:21:45.945+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/load_student_json_dag.py took 0.229 seconds
+[2024-01-28T00:22:16.062+0000] {processor.py:157} INFO - Started process (PID=696) to work on /opt/airflow/dags/load_student_json_dag.py
+[2024-01-28T00:22:16.063+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/load_student_json_dag.py for tasks to queue
+[2024-01-28T00:22:16.064+0000] {logging_mixin.py:154} INFO - [2024-01-28T00:22:16.064+0000] {dagbag.py:536} INFO - Filling up the DagBag from /opt/airflow/dags/load_student_json_dag.py
+[2024-01-28T00:22:16.266+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/load_student_json_dag.py
+[2024-01-28T00:22:16.273+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/load_student_json_dag.py took 0.214 seconds
+[2024-01-28T00:22:46.481+0000] {processor.py:157} INFO - Started process (PID=726) to work on /opt/airflow/dags/load_student_json_dag.py
+[2024-01-28T00:22:46.482+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/load_student_json_dag.py for tasks to queue
+[2024-01-28T00:22:46.483+0000] {logging_mixin.py:154} INFO - [2024-01-28T00:22:46.483+0000] {dagbag.py:536} INFO - Filling up the DagBag from /opt/airflow/dags/load_student_json_dag.py
+[2024-01-28T00:22:46.702+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/load_student_json_dag.py
+[2024-01-28T00:22:46.710+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/load_student_json_dag.py took 0.232 seconds
+[2024-01-28T00:23:16.797+0000] {processor.py:157} INFO - Started process (PID=756) to work on /opt/airflow/dags/load_student_json_dag.py
+[2024-01-28T00:23:16.799+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/load_student_json_dag.py for tasks to queue
+[2024-01-28T00:23:16.800+0000] {logging_mixin.py:154} INFO - [2024-01-28T00:23:16.799+0000] {dagbag.py:536} INFO - Filling up the DagBag from /opt/airflow/dags/load_student_json_dag.py
+[2024-01-28T00:23:17.007+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/load_student_json_dag.py
+[2024-01-28T00:23:17.015+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/load_student_json_dag.py took 0.223 seconds
+[2024-01-28T00:23:47.242+0000] {processor.py:157} INFO - Started process (PID=787) to work on /opt/airflow/dags/load_student_json_dag.py
+[2024-01-28T00:23:47.244+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/load_student_json_dag.py for tasks to queue
+[2024-01-28T00:23:47.245+0000] {logging_mixin.py:154} INFO - [2024-01-28T00:23:47.245+0000] {dagbag.py:536} INFO - Filling up the DagBag from /opt/airflow/dags/load_student_json_dag.py
+[2024-01-28T00:23:47.470+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/load_student_json_dag.py
+[2024-01-28T00:23:47.479+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/load_student_json_dag.py took 0.240 seconds
+[2024-01-28T00:24:17.530+0000] {processor.py:157} INFO - Started process (PID=809) to work on /opt/airflow/dags/load_student_json_dag.py
+[2024-01-28T00:24:17.531+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/load_student_json_dag.py for tasks to queue
+[2024-01-28T00:24:17.532+0000] {logging_mixin.py:154} INFO - [2024-01-28T00:24:17.532+0000] {dagbag.py:536} INFO - Filling up the DagBag from /opt/airflow/dags/load_student_json_dag.py
+[2024-01-28T00:24:17.742+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/load_student_json_dag.py
+[2024-01-28T00:24:17.750+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/load_student_json_dag.py took 0.224 seconds
+[2024-01-28T00:24:48.045+0000] {processor.py:157} INFO - Started process (PID=839) to work on /opt/airflow/dags/load_student_json_dag.py
+[2024-01-28T00:24:48.046+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/load_student_json_dag.py for tasks to queue
+[2024-01-28T00:24:48.047+0000] {logging_mixin.py:154} INFO - [2024-01-28T00:24:48.047+0000] {dagbag.py:536} INFO - Filling up the DagBag from /opt/airflow/dags/load_student_json_dag.py
+[2024-01-28T00:24:48.250+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/load_student_json_dag.py
+[2024-01-28T00:24:48.258+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/load_student_json_dag.py took 0.216 seconds
+[2024-01-28T00:25:18.334+0000] {processor.py:157} INFO - Started process (PID=869) to work on /opt/airflow/dags/load_student_json_dag.py
+[2024-01-28T00:25:18.335+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/load_student_json_dag.py for tasks to queue
+[2024-01-28T00:25:18.335+0000] {logging_mixin.py:154} INFO - [2024-01-28T00:25:18.335+0000] {dagbag.py:536} INFO - Filling up the DagBag from /opt/airflow/dags/load_student_json_dag.py
+[2024-01-28T00:25:18.547+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/load_student_json_dag.py
+[2024-01-28T00:25:18.558+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/load_student_json_dag.py took 0.226 seconds
+[2024-01-28T00:25:48.827+0000] {processor.py:157} INFO - Started process (PID=899) to work on /opt/airflow/dags/load_student_json_dag.py
+[2024-01-28T00:25:48.828+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/load_student_json_dag.py for tasks to queue
+[2024-01-28T00:25:48.829+0000] {logging_mixin.py:154} INFO - [2024-01-28T00:25:48.829+0000] {dagbag.py:536} INFO - Filling up the DagBag from /opt/airflow/dags/load_student_json_dag.py
+[2024-01-28T00:25:49.031+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/load_student_json_dag.py
+[2024-01-28T00:25:49.039+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/load_student_json_dag.py took 0.216 seconds
+[2024-01-28T00:26:19.109+0000] {processor.py:157} INFO - Started process (PID=921) to work on /opt/airflow/dags/load_student_json_dag.py
+[2024-01-28T00:26:19.111+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/load_student_json_dag.py for tasks to queue
+[2024-01-28T00:26:19.112+0000] {logging_mixin.py:154} INFO - [2024-01-28T00:26:19.111+0000] {dagbag.py:536} INFO - Filling up the DagBag from /opt/airflow/dags/load_student_json_dag.py
+[2024-01-28T00:26:19.310+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/load_student_json_dag.py
+[2024-01-28T00:26:19.318+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/load_student_json_dag.py took 0.214 seconds
