@@ -172,8 +172,8 @@ def load_json_dag():
     file_path = f"dags/data/transformed/students_inf_{csv_timestamp}.csv"
     bucket_name = 'snowflake-series'
     object_key = f's3://snowflake-series/tmp/students_inf_{csv_timestamp}.csv'
-    aws_access_key_id = 'AKIA2SRWH43TIS5PQXUB'
-    aws_secret_access_key = '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'
+    aws_access_key_id = ''
+    aws_secret_access_key = ''
     
     file_path_students = 'dags/data/raw/students.json'
     file_path_missed = 'dags/data/raw/missed_days.json'
